@@ -15,7 +15,7 @@
 
 // No comms error count
 #ifndef BMSCOMMS_ERROR_PACKETS
-#define BMSCOMMS_ERROR_PACKETS        20
+#define BMSCOMMS_ERROR_PACKETS        5
 #endif
 
 // exit statuses
